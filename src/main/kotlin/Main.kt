@@ -1,3 +1,5 @@
+//We will use all loops and statements
+
 fun main(args: Array<String>) {
     val notepad = hashMapOf<String, ArrayList<String>>()
 
