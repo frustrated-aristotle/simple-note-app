@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="57a20924-097f-4083-9afa-0e8d04d37761" name="Changes" comment="Reading Notepad name&#10;Writing the note to that notepad.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,21 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Reading Notepad name&#10;Writing the note to that notepad." />
     <option name="LAST_COMMIT_MESSAGE" value="Reading Notepad name&#10;Writing the note to that notepad." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
+          <line>8</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
